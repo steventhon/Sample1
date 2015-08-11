@@ -1,1 +1,4 @@
-
+/* Move down body because the fixed navbar is 50px tall */
+body {
+  padding-top: 50px;
+}
