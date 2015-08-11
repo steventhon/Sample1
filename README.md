@@ -1,5 +1,5 @@
 # Sample1
-Fun playing with <a href="getbootstrap.com" target="_blank">Bootstrap</a>) and <a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a>
+Fun playing with <a href="getbootstrap.com" target="_blank">Bootstrap</a> and <a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a>
 
 Check out the web page(s):
 
