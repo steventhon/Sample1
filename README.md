@@ -1,6 +1,5 @@
 # Sample1
-Fun playing with Bootstrap and Font Awesome
-
+Fun playing with [Bootstrap](getbootstrap.com) and [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 Check out the web page(s):
 
