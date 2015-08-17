@@ -14,3 +14,16 @@ body {
 ul.nav, .jumbotron h1 {
   font-family: "Arvo", courier, serif;
 }
+
+ul.nav {
+  font-size: 13px;
+}
+
+.jumbotron h1 {
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+
+.jumbotron p {
+  margin-bottom: 30px;
+}
