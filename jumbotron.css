@@ -10,3 +10,7 @@ body {
 .btn-lg {
   font-size: 36px;
 }
+
+ul.nav, .jumbotron h1 {
+  font-family: "Arvo", courier, serif;
+}
