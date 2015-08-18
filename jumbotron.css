@@ -55,3 +55,9 @@ ul.nav {
   font-size: 21px;
   font-weight: 300;
 }
+
+.homepage hr {
+  border-top: 1px solid #660066;
+  width: 400px;
+  margin-top: 15px;
+}
