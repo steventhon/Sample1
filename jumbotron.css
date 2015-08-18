@@ -27,3 +27,31 @@ ul.nav {
 .jumbotron p {
   margin-bottom: 30px;
 }
+
+.homepage {
+  text-align: center;
+}
+
+.homepage h2, .homepage h3 {
+  font-family: "Arvo", courier, serif;
+  color: #e74c3c;
+  text-transform: uppercase;
+}
+
+.homepage h2, .homepage h3 {
+  color: #660066;
+  text-transform: uppercase;
+}
+
+.homepage h2 {
+  font-size: 30px;
+}
+
+.homepage h3 {
+  font-size: 26px;
+}
+
+.homepage p {
+  font-size: 21px;
+  font-weight: 300;
+}
