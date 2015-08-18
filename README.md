@@ -5,4 +5,4 @@ Check out the web page(s):
 
 <a href="https://htmlpreview.github.io/?https://github.com/steventhon/Sample1/blob/master/index.html" target="_blank">index.html</a>
 
-(Thanks to https://htmlpreview.github.io)
+(Thanks to https://htmlpreview.github.io for preview)
